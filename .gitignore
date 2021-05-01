@@ -19,6 +19,8 @@ env.bak/
 venv.bak/
 pythonenv*
 
+/static
+/media
 # Django stuff:
 
 # Flask stuff:
